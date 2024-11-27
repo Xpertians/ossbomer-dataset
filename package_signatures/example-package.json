@@ -9,5 +9,5 @@
         "pkg:deb/example-package@1.0.0?distro=ubuntu"
     ],
     "versions": ["1.0.0", "1.1.0"],
-    "version": "1.2.0"
+    "version": "1.2.8"
 }
