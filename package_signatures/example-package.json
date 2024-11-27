@@ -1,0 +1,12 @@
+{
+    "package_name": "example-package",
+    "publisher": "Your Organization <maintainer@example.com>",
+    "last_updated": "2024-11-26T12:00:00Z",
+    "problem_type": "license_violation",
+    "description": "Package violates license distribution terms.",
+    "purls": [
+        "pkg:deb/example-package@1.0.0?distro=debian",
+        "pkg:deb/example-package@1.0.0?distro=ubuntu"
+    ],
+    "versions": ["1.0.0", "1.1.0"]
+}
