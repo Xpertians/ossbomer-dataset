@@ -2957,11 +2957,11 @@
         {
             "full_name": "curl License",
             "spdx_id": "curl",
-            "classification": "unknown",
+            "classification": "permissive",
             "copyleft": false,
-            "distribution": false,
-            "internal_use": false,
-            "require_attributions": false,
+            "distribution": true,
+            "internal_use": true,
+            "require_attributions": true,
             "source_compliance": false,
             "aliases": [
                 "https://github.com/bagder/curl/blob/master/COPYING"
@@ -7472,16 +7472,16 @@
         {
             "full_name": "OpenSSL License",
             "spdx_id": "OpenSSL",
-            "classification": "unknown",
+            "classification": "permissive",
             "copyleft": false,
-            "distribution": false,
-            "internal_use": false,
-            "require_attributions": false,
+            "distribution": true,
+            "internal_use": true,
+            "require_attributions": true,
             "source_compliance": false,
             "aliases": [
                 "http://www.openssl.org/source/license.html"
             ],
-            "publisher": "Unknown"
+            "publisher": "OpenSSL"
         },
         {
             "full_name": "OpenSSL License - standalone",
@@ -9646,17 +9646,17 @@
         {
             "full_name": "zlib License",
             "spdx_id": "Zlib",
-            "classification": "unknown",
+            "classification": "permissive",
             "copyleft": false,
-            "distribution": false,
-            "internal_use": false,
-            "require_attributions": false,
+            "distribution": true,
+            "internal_use": true,
+            "require_attributions": true,
             "source_compliance": false,
             "aliases": [
                 "http://www.zlib.net/zlib_license.html",
                 "https://opensource.org/licenses/Zlib"
             ],
-            "publisher": "Unknown"
+            "publisher": "Zlib"
         },
         {
             "full_name": "zlib/libpng License with Acknowledgement",
